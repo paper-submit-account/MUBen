@@ -183,7 +183,6 @@ PYTHONPATH="." python ./assist/results_get_metrics.py ./scripts/config_metrics.j
 Make sure the hyper-parameters in the configuration file are updated to your need.
 
 The metrics will be saved in the `./<result_folder>/RESULTS/<model_name>-<dataset_name>.csv` files.
-~~Notice that these files already exist in the repo if you keep the default `--result_folder=./output` argument and you need to check whether it is updated to reveal your experiment results.~~
 
 ### Results
 
