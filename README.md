@@ -1,6 +1,8 @@
 # MUBen: **M**olecular **U**ncertainty **Ben**mark
 Code associated with paper *MUBen: Benchmarking the Uncertainty of Pre-Trained Models for Molecular Property Prediction*.
 
+Please visit [here](https://paper-submit-account.github.io/MUBen/) for a complete introduction of package api and usage examples.
+
 The code is built to expose implementation details as much as possible and be easily extendable.
 Questions and suggestions are welcome if you find any issues while using our code.
 
